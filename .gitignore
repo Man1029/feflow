@@ -7,3 +7,4 @@ coverage/
 packages/*/lib
 .vscode
 **/.nyc_output
+public/
